@@ -1,0 +1,371 @@
+Arguments:./pagelockedinon-h2d-unified
+np.array(((5.3213,11: invalid argument
+3.15657,11: invalid argument
+2.42115,11: invalid argument
+2.67869,11: invalid argument
+2.39153,11: invalid argument
+2.23619,77: an illegal memory access was encountered
+1.87664,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+0.00206473,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.161e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.719e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.867e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.744e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.248e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.491e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.521e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.664e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.641e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+9.208e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.869e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.503e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.529e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.732e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+5.983e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+6.312e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.702e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+6.318e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.494e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+6.373e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.721e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.794e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.681e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.644e-06),(Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.594e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.007e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.556e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.621e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.484e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.603e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.566e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.561e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.582e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.837e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.569e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.336e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.543e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.681e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.304e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.328e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.644e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.499e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.534e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.057e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.416e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.303e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.456e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.824e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.461e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.539e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.672e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.604e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.736e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.696e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.456e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+1.3528e-05),(Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.498e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.481e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.609e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.521e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.521e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.521e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.443e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.511e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.313e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.509e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+2.6451e-05,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.454e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+9.629e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.656e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.679e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.508e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.664e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.496e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.659e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.32e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.664e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.647e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.568e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.577e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.764e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.586e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.599e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.296e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.614e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.102e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+2.9728e-05,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.055e-06),(Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.448e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.466e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+9.551e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.604e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.669e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.957e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.691e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.639e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.935e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.622e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.947e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.09e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.761e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.704e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.639e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.912e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.055e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.707e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.148e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.656e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+9.6913e-05,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.837e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.805e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.371e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.654e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.501e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+8.288e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.684e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+9.07e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+1.0403e-05,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.822e-06,Allocation ERROR: an illegal memory access was encountered
+Allocation ERROR2: an illegal memory access was encountered
+77: an illegal memory access was encountered
+7.759e-06),))
